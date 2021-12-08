@@ -9,4 +9,4 @@
 - 💬 Ask me about whatever you want. No answers are promised
 - 😄 Pronouns: Seriously??
 - 📫 How to reach me: `balhau |at| balhau |dot| net`
-- ⚡ Fun fact: Balhau is the shorthand version of Ba[ca]lhau which translates into codefish
+- ⚡ Fun fact: Balhau is the shorthand version of Ba[ca]lhau which translates into codfish
