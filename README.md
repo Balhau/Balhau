@@ -10,3 +10,9 @@
 - 😄 Pronouns: Seriously??
 - 📫 How to reach me: `balhau |at| balhau |dot| net`
 - ⚡ Fun fact: Balhau is the shorthand version of Ba[ca]lhau which translates into codfish
+
+
+## Additional Resources
+
+* [CodeCorner](https://codecorner.balhau.net)
+* [Personal Git](https://git.balhau.net)
