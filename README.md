@@ -18,3 +18,4 @@
 * [Personal Git](https://git.balhau.net)
 * [Keybase](https://keybase.io/balhau)
 * [Keys.openpgp.org](https://keys.openpgp.org/search?q=balhau%40balhau.net)
+* [Mastodon Social](https://mastodon.social/@balhau)
